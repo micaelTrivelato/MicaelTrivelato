@@ -1,7 +1,15 @@
-### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-MicaelTrivelato-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuScarpim)](https://github.com/micaelTrivelato)
+[![Linkedin Badge](https://img.shields.io/badge/-MicaelTrivelato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micael-trivelato-bressani-hyppolito-397783169/)](https://www.linkedin.com/in/micael-trivelato-bressani-hyppolito-397783169/)
+[![Gmail Badge](https://img.shields.io/badge/-micaelhyppolito@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micaeltrivelato1@gmail.com)](mailto:micaeltrivelato1@gmail.com)
+<br>
+-  💻 Cargo atual: <b>Analista de Quality Assurance</b>.
+
+-  ⚡ Conhecimentos: C# | SQL Server Management Studio | VisualStudio | Automação de Testes (Selenium, Speckflow)
+
+-  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), JDK, MySQL, OracleSQL, HTML, CSS.
 
 <!--
-**micaelTrivelato/MicaelTrivelato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*GuScarpim/GusCarpim* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
