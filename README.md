@@ -8,4 +8,4 @@
 
 -  ⚡ Conhecimentos: C# | SQL Server Management Studio | VisualStudio | Automação de Testes (Selenium, Speckflow)  
 
--  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), JDK, MySQL, OracleSQL, HTML, CSS.
+-  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), Programação Android integrada com Java (Android Studio), JDK, MySQL, OracleSQL, HTML, CSS.
