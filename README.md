@@ -4,8 +4,8 @@
 <br>
 -  💻 Cargo atual: <b>Analista Programador Java</b>.
 
--  ⚡ Experiência: Java | JPA | Maven | Wildfly | JSF | Oracle SQL | SQL Server | Orientação a Objetos
+-  ⚡ Experiência: Java | JPA | REST API | VSCODE | Maven | Wildfly | JSF | Oracle SQL | SQL Server | MySQL | Orientação a Objetos | 
 
--  ⚡ Conhecimentos: C# | SQL Server Management Studio | VisualStudio | Automação de Testes (Selenium, Speckflow)  
+-  ⚡ Conhecimentos: SpringBoot | React | JavaScript | C# | SQL Server Management Studio | Automação de Testes (Selenium, Speckflow)  
 
 -  :books: Conhecimentos acadêmicos: Java, Java Web (JSP), Programação Android integrada com Java (Android Studio), JDK, MySQL, OracleSQL, HTML, CSS.
